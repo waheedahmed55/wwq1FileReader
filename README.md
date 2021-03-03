@@ -31,7 +31,7 @@ These are ways:
 </p>
 
 
-* Step 6: You will notice in Eclipse Console TestNG will start 
+* Step 6: You will notice in Eclipse Console output 
 <p align="center">
 <img width="400" height="250" src="Image/consolepart1.png"><br />
 </p>
