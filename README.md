@@ -21,7 +21,7 @@ These are ways:
 
 * Step 4: Wait for the dependencies to be loaded
 <p align="center">
-<img width="350" height="350" src="Image/waitforprojecttoloaddependencies.png"><br />
+<img width="450" height="350" src="Image/waitforprojecttoloaddependencies.png"><br />
 </p>
 
 
