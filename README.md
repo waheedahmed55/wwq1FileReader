@@ -16,7 +16,7 @@ These are ways:
 
 * Step 3: Click on checkbox and click on Finish button
 <p align="center">
-<img width="350" height="300" src="Image/clickcheckboxandfinishbtn.png"><br />
+<img width="450" height="300" src="Image/clickcheckboxandfinishbtn.png"><br />
 </p>
 
 * Step 4: Wait for the dependencies to be loaded
