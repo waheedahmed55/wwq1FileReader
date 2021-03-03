@@ -10,7 +10,7 @@ These are ways:
 
 * Step 2: Click on Directory and Navigate to source code folder you have dowloaded. Select the Folder & Click on Select Folder Button
 <p align="center">
-<img width="350" height="300" src="Image/clickondirectory.png"><br />
+<img width="450" height="300" src="Image/clickondirectory.png"><br />
 </p>
 
 
