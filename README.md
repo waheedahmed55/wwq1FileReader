@@ -27,7 +27,7 @@ These are ways:
 
 * Step 5: Run test as Java Application Right Click StringTest.java->Run As-> Java Application
 <p align="center">
-<img width="350" height="350" src="Image/runasJavaapp.png"><br />
+<img width="450" height="350" src="Image/runasJavaapp.png"><br />
 </p>
 
 
