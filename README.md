@@ -33,7 +33,7 @@ These are ways:
 
 * Step 6: You will notice in Eclipse Console output 
 <p align="center">
-<img width="450" height="250" src="Image/consolepart1.png"><br />
+<img width="500" height="200" src="Image/consolepart1.png"><br />
 </p>
 
 
