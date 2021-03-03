@@ -2,7 +2,7 @@
 # How to Setup & Run the project:-
 These are ways:
 
-* Step 1: Download the code from repository and import in the eclipse
+* Step 1: Download the code from repository and import in the eclipse. File->Open Projects from File System
 <p align="center">
 <img width="250" height="250" src="Image/importFile.png"><br />
 </p>
